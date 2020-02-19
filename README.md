@@ -8,3 +8,7 @@ Almost all the file names are named by the video title
 ```python
 python file_name.py
 ```
+or
+```python
+py file_name.py
+```
